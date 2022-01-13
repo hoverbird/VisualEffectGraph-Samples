@@ -214,69 +214,69 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c82e07b9a14fe3958806045dbb5693, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Live: 1
+  m_Live: 0
   m_Actor: {fileID: 3493303856234360002}
   m_LiveLink:
-    m_Active: 1
+    m_Active: 0
     Channels: 15
   m_Pose:
     BlendShapes:
       BrowDownLeft: 0
       BrowDownRight: 0
-      BrowInnerUp: 0.19802956
-      BrowOuterUpLeft: 0.022224497
-      BrowOuterUpRight: 0.044030227
-      CheekPuff: 0.04097648
-      CheekSquintLeft: 0.13881895
-      CheekSquintRight: 0.112612054
-      EyeBlinkLeft: 0.0003415079
-      EyeBlinkRight: 0.00033861093
-      EyeLookDownLeft: 0.1739005
-      EyeLookDownRight: 0.17121527
-      EyeLookInLeft: 0
-      EyeLookInRight: 0.39844438
-      EyeLookOutLeft: 0.27810344
+      BrowInnerUp: 0.09544833
+      BrowOuterUpLeft: 0.062233306
+      BrowOuterUpRight: 0.062268745
+      CheekPuff: 0.03578728
+      CheekSquintLeft: 0.04458194
+      CheekSquintRight: 0.050669175
+      EyeBlinkLeft: 0.024188079
+      EyeBlinkRight: 0.024175387
+      EyeLookDownLeft: 0.3759404
+      EyeLookDownRight: 0.3764279
+      EyeLookInLeft: 0.08857641
+      EyeLookInRight: 0.033346377
+      EyeLookOutLeft: 0
       EyeLookOutRight: 0
       EyeLookUpLeft: 0
       EyeLookUpRight: 0
-      EyeSquintLeft: 0.30281198
-      EyeSquintRight: 0.22648647
-      EyeWideLeft: 0.12139925
-      EyeWideRight: 0.13413659
-      JawForward: 0.06600474
-      JawLeft: 0
-      JawOpen: 0.09776105
-      JawRight: 0.11720195
-      MouthClose: 0.09505014
-      MouthDimpleLeft: 0.07021972
-      MouthDimpleRight: 0.05735805
+      EyeSquintLeft: 0.03173553
+      EyeSquintRight: 0.03173766
+      EyeWideLeft: 0
+      EyeWideRight: 0
+      JawForward: 0.03608952
+      JawLeft: 0.002718195
+      JawOpen: 0.049456716
+      JawRight: 0
+      MouthClose: 0.05848131
+      MouthDimpleLeft: 0.05432294
+      MouthDimpleRight: 0.058183916
       MouthFrownLeft: 0
       MouthFrownRight: 0
-      MouthFunnel: 0.10425856
+      MouthFunnel: 0.05011227
       MouthLeft: 0
-      MouthLowerDownLeft: 0.14913116
-      MouthLowerDownRight: 0.17734426
-      MouthPressLeft: 0.037629377
-      MouthPressRight: 0.03277871
-      MouthPucker: 0.07251256
-      MouthRight: 0.06000856
-      MouthRollLower: 0.07336258
-      MouthRollUpper: 0.033452407
-      MouthShrugLower: 0.054346565
-      MouthShrugUpper: 0.10733567
-      MouthSmileLeft: 0.058214873
-      MouthSmileRight: 0.09413276
-      MouthStretchLeft: 0.26040736
-      MouthStretchRight: 0.23512742
-      MouthUpperUpLeft: 0.028874971
-      MouthUpperUpRight: 0.034853294
-      NoseSneerLeft: 0.12749389
-      NoseSneerRight: 0.1213409
-      TongueOut: 0.00005196974
-    HeadPosition: {x: -0.07079876, y: -0.03410652, z: -0.23212619}
-    HeadOrientation: {x: 0.09955075, y: 0.102421515, z: -0.11878121, w: -0.9825938}
-    LeftEyeOrientation: {x: -0.0518843, y: 0.121231794, z: 0.00634557, w: -0.991247}
-    RightEyeOrientation: {x: -0.05289852, y: 0.084720135, z: 0.004504137, w: -0.9949895}
+      MouthLowerDownLeft: 0.10285527
+      MouthLowerDownRight: 0.10515713
+      MouthPressLeft: 0.04095338
+      MouthPressRight: 0.041330505
+      MouthPucker: 0.060314123
+      MouthRight: 0.021901635
+      MouthRollLower: 0.069221966
+      MouthRollUpper: 0.019698048
+      MouthShrugLower: 0.07438334
+      MouthShrugUpper: 0.09434046
+      MouthSmileLeft: 0.09392454
+      MouthSmileRight: 0.11563541
+      MouthStretchLeft: 0.2533607
+      MouthStretchRight: 0.25901055
+      MouthUpperUpLeft: 0.026701946
+      MouthUpperUpRight: 0.030387858
+      NoseSneerLeft: 0.10101937
+      NoseSneerRight: 0.11288124
+      TongueOut: 0.000000046820766
+    HeadPosition: {x: -0.055318534, y: -0.0048129745, z: -0.3040285}
+    HeadOrientation: {x: 0.101589695, y: -0.06507717, z: -0.053774208, w: -0.991238}
+    LeftEyeOrientation: {x: -0.11471428, y: 0.010117654, z: 0.0011684137, w: -0.99334633}
+    RightEyeOrientation: {x: -0.11453039, y: -0.026872698, z: -0.0030992765, w: -0.9930514}
 --- !u!4 &178625141
 Transform:
   m_ObjectHideFlags: 0
@@ -409,23 +409,23 @@ MonoBehaviour:
     m_Directory: Assets/Takes
     m_SceneNumber: 1
     m_Name: 2nd shot
-    m_TakeNumber: 1
+    m_TakeNumber: 3
     m_Description: "testingggg\t"
-    m_Take: {fileID: 11400000, guid: db65c1f4f090f47ed80168eab4feee7f, type: 2}
-    m_IterationBase: {fileID: 11400000, guid: 735945e2b5bd547458d7b7e335d8ba15, type: 2}
+    m_Take: {fileID: 11400000, guid: e30e3f3b3d3334811bbb47d44dc01ec4, type: 2}
+    m_IterationBase: {fileID: 11400000, guid: e30e3f3b3d3334811bbb47d44dc01ec4, type: 2}
     m_Director: {fileID: 402464199}
   m_TakePlayer:
     m_FallbackPlayableAsset: {fileID: 11400000, guid: a42ca493bba0c314e86e05cbd6ec9ddf,
       type: 2}
     m_Director: {fileID: 402464199}
-    m_Take: {fileID: 11400000, guid: db65c1f4f090f47ed80168eab4feee7f, type: 2}
+    m_Take: {fileID: 11400000, guid: e30e3f3b3d3334811bbb47d44dc01ec4, type: 2}
   m_FrameRate:
     m_Numerator: 30
     m_Denominator: 1
     m_IsDropFrame: 0
   m_Devices:
   - {fileID: 178625140}
-  m_Live: 1
+  m_Live: 0
 --- !u!320 &402464199
 PlayableDirector:
   m_ObjectHideFlags: 0
@@ -435,7 +435,7 @@ PlayableDirector:
   m_GameObject: {fileID: 402464197}
   m_Enabled: 1
   serializedVersion: 3
-  m_PlayableAsset: {fileID: -804512751316232619, guid: db65c1f4f090f47ed80168eab4feee7f,
+  m_PlayableAsset: {fileID: -804512751316232619, guid: e30e3f3b3d3334811bbb47d44dc01ec4,
     type: 2}
   m_InitialState: 1
   m_WrapMode: 2
@@ -446,7 +446,7 @@ PlayableDirector:
     value: {fileID: 0}
   - key: {fileID: -1295848888258722458, guid: 621a79e91f5dbcc43862554de633d385, type: 2}
     value: {fileID: 0}
-  - key: {fileID: 6226841110809044947, guid: db65c1f4f090f47ed80168eab4feee7f, type: 2}
+  - key: {fileID: 6226841110809044947, guid: e30e3f3b3d3334811bbb47d44dc01ec4, type: 2}
     value: {fileID: 515278895593713126}
   m_ExposedReferences:
     m_References:
@@ -1051,47 +1051,47 @@ PrefabInstance:
     - target: {fileID: 253916211357980085, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.07079876
+      value: -0.006497914
       objectReference: {fileID: 0}
     - target: {fileID: 253916211357980085, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.03410652
+      value: -0.01691083
       objectReference: {fileID: 0}
     - target: {fileID: 253916211357980085, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.23212619
+      value: -0.3240833
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_HeadPosition.x
-      value: -0.07079876
+      value: -0.006497843
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_HeadPosition.y
-      value: -0.03410652
+      value: -0.016910812
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_HeadPosition.z
-      value: -0.23212619
+      value: -0.32408336
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_HeadOrientation.x
-      value: 350.13632
+      value: 355.4763
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_HeadOrientation.y
-      value: 346.8029
+      value: 9.903771
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_HeadOrientation.z
-      value: 14.929353
+      value: 357.8302
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1101,12 +1101,12 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.JawLeft
-      value: 0
+      value: 0.056992125
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.JawOpen
-      value: 0.09776105
+      value: 0.03828502
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1116,27 +1116,27 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.JawRight
-      value: 0.11720195
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LeftEyeOrientation.x
-      value: 5.815288
+      value: 4.177671
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LeftEyeOrientation.y
-      value: 345.98083
+      value: 351.89423
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LeftEyeOrientation.z
-      value: 358.5508
+      value: 359.40555
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.CheekPuff
-      value: 0.04097648
+      value: 0.04172556
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1146,7 +1146,7 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.TongueOut
-      value: 0.00005196974
+      value: 0.00000011226598
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1156,32 +1156,32 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_RightEyeOrientation.x
-      value: 5.998577
+      value: 4.2409053
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_RightEyeOrientation.y
-      value: 350.21225
+      value: 356.06873
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_RightEyeOrientation.z
-      value: 358.9672
+      value: 359.70883
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.JawForward
-      value: 0.06600474
+      value: 0.041939277
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthClose
-      value: 0.09505014
+      value: 0.047578692
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthRight
-      value: 0.06000856
+      value: 0.00804138
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1191,22 +1191,22 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.BrowInnerUp
-      value: 0.19802956
+      value: 0.24034399
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.EyeWideLeft
-      value: 0.12139925
+      value: 0.25938883
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthFunnel
-      value: 0.10425856
+      value: 0.05213065
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthPucker
-      value: 0.07251256
+      value: 0.05686144
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1216,12 +1216,12 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.EyeBlinkLeft
-      value: 0.0003415079
+      value: 0.00000020538349
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.EyeWideRight
-      value: 0.13413659
+      value: 0.25900793
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1231,7 +1231,7 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.EyeBlinkRight
-      value: 0.00033861093
+      value: 0.00000020537988
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1246,22 +1246,22 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.EyeSquintLeft
-      value: 0.30281198
+      value: 0.07768842
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.NoseSneerLeft
-      value: 0.12749389
+      value: 0.06512092
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.EyeLookInRight
-      value: 0.39844438
+      value: 0.23097397
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.EyeLookOutLeft
-      value: 0.27810344
+      value: 0.11201432
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1271,7 +1271,7 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.EyeSquintRight
-      value: 0.22648647
+      value: 0.07789344
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1281,42 +1281,42 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthPressLeft
-      value: 0.037629377
+      value: 0.03986793
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthRollLower
-      value: 0.07336258
+      value: 0.085211664
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthRollUpper
-      value: 0.033452407
+      value: 0.022484828
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthSmileLeft
-      value: 0.058214873
+      value: 0.10959432
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.NoseSneerRight
-      value: 0.1213409
+      value: 0.06082701
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.BrowOuterUpLeft
-      value: 0.022224497
+      value: 0.2579051
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.CheekSquintLeft
-      value: 0.13881895
+      value: 0.054998744
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.EyeLookDownLeft
-      value: 0.1739005
+      value: 0.12145344
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1326,7 +1326,7 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthDimpleLeft
-      value: 0.07021972
+      value: 0.055925254
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1336,72 +1336,72 @@ PrefabInstance:
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthPressRight
-      value: 0.03277871
+      value: 0.042684767
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthShrugLower
-      value: 0.054346565
+      value: 0.11881004
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthShrugUpper
-      value: 0.10733567
+      value: 0.123660155
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthSmileRight
-      value: 0.09413276
+      value: 0.14682207
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.BrowOuterUpRight
-      value: 0.044030227
+      value: 0.2555158
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.CheekSquintRight
-      value: 0.112612054
+      value: 0.073227316
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.EyeLookDownRight
-      value: 0.17121527
+      value: 0.120562196
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthDimpleRight
-      value: 0.05735805
+      value: 0.056741495
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthStretchLeft
-      value: 0.26040736
+      value: 0.13171773
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthUpperUpLeft
-      value: 0.028874971
+      value: 0.015974721
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthStretchRight
-      value: 0.23512742
+      value: 0.12239822
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthUpperUpRight
-      value: 0.034853294
+      value: 0.017170127
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthLowerDownLeft
-      value: 0.14913116
+      value: 0.061810315
       objectReference: {fileID: 0}
     - target: {fileID: 1565280988593937319, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapes.MouthLowerDownRight
-      value: 0.17734426
+      value: 0.06569654
       objectReference: {fileID: 0}
     - target: {fileID: 3989087790041628964, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1481,62 +1481,62 @@ PrefabInstance:
     - target: {fileID: 5779982394761121648, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.991247
+      value: 0.9968365
       objectReference: {fileID: 0}
     - target: {fileID: 5779982394761121648, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.05188432
+      value: 0.036721945
       objectReference: {fileID: 0}
     - target: {fileID: 5779982394761121648, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.12123185
+      value: -0.07043993
       objectReference: {fileID: 0}
     - target: {fileID: 5779982394761121648, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.006345676
+      value: -0.0025951485
       objectReference: {fileID: 0}
     - target: {fileID: 6433182110154927496, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.99498945
+      value: 0.9987274
       objectReference: {fileID: 0}
     - target: {fileID: 6433182110154927496, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.05289852
+      value: 0.03706384
       objectReference: {fileID: 0}
     - target: {fileID: 6433182110154927496, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.084720336
+      value: -0.034181766
       objectReference: {fileID: 0}
     - target: {fileID: 6433182110154927496, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.004504003
+      value: -0.0012686877
       objectReference: {fileID: 0}
     - target: {fileID: 6819592559828896360, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9825938
+      value: 0.9953774
       objectReference: {fileID: 0}
     - target: {fileID: 6819592559828896360, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.09955091
+      value: -0.040945247
       objectReference: {fileID: 0}
     - target: {fileID: 6819592559828896360, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.10242158
+      value: 0.085491635
       objectReference: {fileID: 0}
     - target: {fileID: 6819592559828896360, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.11878117
+      value: -0.015442414
       objectReference: {fileID: 0}
     - target: {fileID: 6837520128562990753, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1546,22 +1546,22 @@ PrefabInstance:
     - target: {fileID: 6837520128562990753, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[0]
-      value: 11.720195
-      objectReference: {fileID: 0}
-    - target: {fileID: 6837520128562990753, guid: 01105ad442a2c6842a902b810878a5e6,
-        type: 3}
-      propertyPath: m_BlendShapeWeights.Array.data[1]
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6837520128562990753, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[1]
+      value: 5.699192
+      objectReference: {fileID: 0}
+    - target: {fileID: 6837520128562990753, guid: 01105ad442a2c6842a902b810878a5e6,
+        type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[2]
-      value: 6.600474
+      value: 4.193937
       objectReference: {fileID: 0}
     - target: {fileID: 6837520128562990753, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[3]
-      value: 9.776105
+      value: 3.8285818
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1571,87 +1571,87 @@ PrefabInstance:
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[0]
-      value: 2.2224498
+      value: 25.790827
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[1]
-      value: 4.403023
+      value: 25.551903
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[2]
-      value: 30.281199
+      value: 7.769166
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[3]
-      value: 22.648647
+      value: 7.7896686
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[4]
-      value: 0
+      value: 0.00017262266
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[5]
-      value: 27.810345
+      value: 11.20132
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[6]
-      value: 39.844437
+      value: 23.097166
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[7]
-      value: 0
+      value: 0.00006642227
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[8]
-      value: 5.087869e-16
+      value: 0.00066018786
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[9]
-      value: 5.0039615e-16
+      value: 0.00066303584
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[10]
-      value: 17.39005
+      value: 12.145223
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[11]
-      value: 17.121527
+      value: 12.056099
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[12]
-      value: 4.097648
+      value: 4.172547
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[13]
-      value: 13.881895
+      value: 5.49989
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[14]
-      value: 11.261206
+      value: 7.3227468
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[15]
-      value: 12.749389
+      value: 6.512071
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[16]
-      value: 12.13409
+      value: 6.0826917
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1661,147 +1661,147 @@ PrefabInstance:
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[18]
-      value: 6.000856
+      value: 0.80416036
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[19]
-      value: 7.251256
+      value: 5.686218
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[20]
-      value: 10.425856
+      value: 5.2133346
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[21]
-      value: 5.8214874
+      value: 10.959323
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[22]
-      value: 9.413276
+      value: 14.682059
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[23]
-      value: 1.8075737e-14
+      value: 0.000124561
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[24]
-      value: 1.3809178e-15
+      value: 0.000095986485
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[25]
-      value: 7.0219717
+      value: 5.592505
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[26]
-      value: 5.735805
+      value: 5.67413
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[27]
-      value: 3.7629378
+      value: 3.9867845
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[28]
-      value: 3.2778711
+      value: 4.2684674
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[29]
-      value: 5.4346566
+      value: 11.880958
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[30]
-      value: 10.733567
+      value: 12.366115
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[31]
-      value: 26.040735
+      value: 13.171895
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[32]
-      value: 23.512741
+      value: 12.239944
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[33]
-      value: 2.8874972
+      value: 1.5974703
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[34]
-      value: 3.4853294
+      value: 1.7170111
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[35]
-      value: 14.913116
+      value: 6.1811333
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[36]
-      value: 17.734426
+      value: 6.5697584
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[37]
-      value: 3.3452406
+      value: 2.2484822
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[38]
-      value: 7.336258
+      value: 8.5211525
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[39]
-      value: 9.505014
+      value: 4.757922
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[40]
-      value: 6.600474
+      value: 4.193937
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[41]
-      value: 9.776105
+      value: 3.8285818
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[42]
-      value: 0
+      value: 5.699192
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[43]
-      value: 11.720195
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[44]
-      value: 19.802956
+      value: 24.034672
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[45]
-      value: 0.033861093
+      value: 0.000020537987
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[46]
-      value: 0.03415079
+      value: 0.00002053835
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
@@ -1816,17 +1816,17 @@ PrefabInstance:
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[49]
-      value: 13.413659
+      value: 25.901033
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[50]
-      value: 12.139925
+      value: 25.939123
       objectReference: {fileID: 0}
     - target: {fileID: 8747823220046412346, guid: 01105ad442a2c6842a902b810878a5e6,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[55]
-      value: 0.0051969737
+      value: 0.000011226592
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01105ad442a2c6842a902b810878a5e6, type: 3}
